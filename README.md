@@ -26,7 +26,7 @@ https://developer.apple.com/documentation/visionos
 - SurroundingsEffect 
 
 
-**Enterprise API’s**
+**Enterprise APIs**
 - Main Camera Access
 - Passthrough In-screen Capture
 - Spatial barcode and QR code scanning
@@ -61,9 +61,23 @@ https://developer.apple.com/videos/play/wwdc2024/10103/
     - Customize volumes and immersive spaces 
 https://developer.apple.com/videos/play/wwdc2024/10153/
 
+- Create Custom Hovers Effects for visionOS
+https://developer.apple.com/videos/play/wwdc2024/10152/
+
+- Explore Multiview Video Playback in visionOS
+https://developer.apple.com/videos/play/wwdc2024/10116/
+
+- Explore Game Input in visionOS
+https://developer.apple.com/videos/play/wwdc2024/10094/
+
 - Design Great visionOS Apps
 https://developer.apple.com/videos/play/wwdc2024/10086/
 
+- Optimize for the Spatial Web
+https://developer.apple.com/videos/play/wwdc2024/10065
+
+- Build Immersive Web Experiences with WebXR
+https://developer.apple.com/videos/play/wwdc2024/10066/
 
 ---------------------------------------------
 
