@@ -6,6 +6,9 @@ https://developer.apple.com/videos/wwdc2024/
 visionOS Documentation home
 https://developer.apple.com/documentation/visionos
 
+RealityKit Updates - Apple News Release
+https://developer.apple.com/documentation/updates/realitykit?changes=lat_5_8_8,lat_5_8_8
+
 -----------------------------------------------
 
 
