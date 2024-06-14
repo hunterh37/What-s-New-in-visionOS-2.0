@@ -61,16 +61,19 @@ https://developer.apple.com/videos/play/wwdc2024/10103/
     - Customize volumes and immersive spaces 
 https://developer.apple.com/videos/play/wwdc2024/10153/
 
+- Design Great visionOS Apps
+https://developer.apple.com/videos/play/wwdc2024/10086/
 
 
 ---------------------------------------------
 
 ## **Apple visionOS Sample Projects  (WWDC 2024)**
-- https://developer.apple.com/documentation/visionos/bot-anist
-- https://developer.apple.com/documentation/visionos/exploring_object_tracking_with_arkit
+- BOT-anist https://developer.apple.com/documentation/visionos/bot-anist
+- Exploring Object Tracking with ARKit https://developer.apple.com/documentation/visionos/exploring_object_tracking_with_arkit
 
-- https://developer.apple.com/documentation/realitykit/creating-a-spaceship-game
-- https://developer.apple.com/documentation/realitykit/creating-a-spatial-drawing-app-with-realitykit
+- Creating a Spaceship Game https://developer.apple.com/documentation/realitykit/creating-a-spaceship-game
+- Creating a Spatial Drawing App with RealityKit https://developer.apple.com/documentation/realitykit/creating-a-spatial-drawing-app-with-realitykit
+- Customizing SharePlay Templates https://developer.apple.com/documentation/GroupActivities/customizing-spatial-persona-templates
 
 
 
