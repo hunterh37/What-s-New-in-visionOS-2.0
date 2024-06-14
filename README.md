@@ -9,6 +9,22 @@ https://developer.apple.com/documentation/visionos
 -----------------------------------------------
 
 
+**ARKit**
+* ObjectTrackingProvider
+* ObjectAnchor
+* ReferenceObject
+* SpatialTrackingSession
+
+
+**RealityKit**
+- AnimationLibraryComponent (https://developer.apple.com/documentation/RealityKit/AnimationLibraryComponent)
+- BlendShapeWeightsComponent (BlendShapeWeightsComponent)
+- ForceEffects
+- PhysicsJoints
+- AnimationBlending
+- Dynamic Lights and shadows
+- SurroundingsEffect 
+
 
 **Enterprise API’s**
 - Main Camera Access
@@ -30,23 +46,6 @@ https://developer.apple.com/documentation/visionos
 **Immersive Spaces**
 - Immersion Amount change
     - ImmersiveSpace.onImmersionChange
-
-
-**ARKit**
-* ObjectTrackingProvider
-* ObjectAnchor
-* ReferenceObject
-* SpatialTrackingSession
-
-
-**RealityKit**
-- AnimationLibraryComponent (https://developer.apple.com/documentation/RealityKit/AnimationLibraryComponent)
-- BlendShapeWeightsComponent (BlendShapeWeightsComponent)
-- ForceEffects
-- PhysicsJoints
-- AnimationBlending
-- Dynamic Lights and shadows
-- SurroundingsEffect 
 
 
 ---------------------------------------------
